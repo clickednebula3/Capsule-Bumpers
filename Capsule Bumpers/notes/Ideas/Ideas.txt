@@ -1,0 +1,8 @@
+-powerups only spawn above platforms
+-map randomiser
+-freeze others powerup
+-ranged weopons
+-guns mod
+-potion effects
+-menu to select powerups for a map
+-map character selector

@@ -1,0 +1,1 @@
+global.egg_darkmode = !global.egg_darkmode;

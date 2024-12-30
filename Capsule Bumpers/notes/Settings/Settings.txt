@@ -1,0 +1,22 @@
+Music [ON OFF]
+Sound Effects [ON OFF]
+
+CHECK Spawn Powerups [ON OFF]
+CHECK Select Map [The rooms or Random] (Maybe show this if they press "Play"?)
+
+CHECK Colors for Players [Red, Blue, Green, Pink, Yellow, Purple, Orange, Lime]
+CHECK Controls for Players [Keyboard MAIN, keyboard ALT, Controller 1, Controller 2, Controller 3, Controller 4]
+
+CHECK Toggle Bump Hard Directioning
+CHECK Physics Slider hf [0.5/room_speed to 2/room_speed] (Default 1/room_speed)
+CHECK Physics Slider hz [0.1 - 2.0] (Default 1)
+CHECK Physics Slider hr [0.1 - 2.0] (Default 1)
+
+CHECK SETTING: amount of wobble in camera (default: 2)
+CHECK SETTING: the smoothness in camera (default: ?)
+
+
+
+
+
+todo: Add mobile compatiblity?

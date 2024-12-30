@@ -1,0 +1,14 @@
+-Walls/Blocks
+-Maps
+-Powerups
+-Modes
+	-Botball
+	-
+-Online
+	-Host (on your own ip)
+	-Host [Check server]
+	-Join (type the ip)
+	-Join []
+-Niches
+	-Laser
+	-Jetpack
